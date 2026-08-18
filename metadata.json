@@ -1,0 +1,6 @@
+{
+  "name": "Visualizzatore PDF e Traduttore",
+  "description": "Visualizzatore PDF avanzato con traduttore di testi lunghi multilingua",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
