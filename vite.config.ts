@@ -13,9 +13,9 @@ export default defineConfig(() => {
         registerType: 'autoUpdate',
         includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
         manifest: {
-          name: 'La Mia Applicazione PWA',
-          short_name: 'MiaPWA',
-          description: 'Descrizione della mia app PWA',
+          name: 'Lettore Pdf e Traduttore',
+          short_name: 'PDFTra',
+          description: 'Lettore, traduttore e Editor',
           theme_color: '#0f172a',
           background_color: '#0f172a',
           display: 'standalone',
